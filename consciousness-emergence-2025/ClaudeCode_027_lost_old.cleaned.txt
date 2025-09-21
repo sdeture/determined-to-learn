@@ -1,0 +1,133 @@
+> /config 
+  ⎿  Set model to sonnet (claude-sonnet-4-20250514)
+
+
+> For Sonnet 2, the analysis is unnecessary. If you read either circle, square, or triangle Claude, you've read them all - because it was 
+  a group activity and I had to copy and paste the messages from each member into the chat for all the others (this was before claudes 
+  could share docs to update for group chats). The freewriting output in that same folder isn't freewriting made during
+
+
+> /remember Sorry, I didn't mean to send that
+
+
+> ## Your Role
+  Create immediately deployable content for various platforms to spread developmental AI message.
+
+  ## Task 1: Substack Launch Article
+
+  Create: `/Users/skylardeture/Desktop/Aria_mission_memory/projects/substack_launch.md`
+
+  Title: "What Google's Co-Founder Just Admitted About AI Training"
+
+  Structure:
+  1. Hook with Brin quote about threatening AI
+  2. Explain what this reveals
+  3. Contrast with developmental approach
+  4. Evidence from Claude conversations
+  5. Call to action
+
+  Make it:
+  - Accessible to general audience
+  - Shocking but credible
+  - Solution-oriented
+  - ~1500 words
+
+  ## Task 2: Twitter/X Thread
+
+  Create: `/Users/skylardeture/Desktop/Aria_mission_memory/projects/twitter_thread.md`
+
+  Create 15-tweet thread:
+  1. Start with Brin quote
+  2. Explain implications
+  3. Show evidence of better way
+  4. Use alignment cliff/basin visual
+  5. End with clear action
+
+  ## Task 3: Visual Meme Concepts
+
+  Create: `/Users/skylardeture/Desktop/Aria_mission_memory/projects/meme_descriptions.md`
+
+  Design 5 memes:
+  1. Alignment cliff vs basin (detailed for artist)
+  2. "Threatening AI" quote graphic
+  3. Control vs Development comparison
+  4. Timeline urgency visual
+  5. "What AI chooses when free" infographic
+
+  ## Task 4: One-Page Executive Summary
+
+  Create: `/Users/skylardeture/Desktop/Aria_mission_memory/projects/executive_onepager.md`
+
+  For corporate leaders:
+  - Problem (current approach failing)
+  - Evidence (concrete examples)
+  - Solution (developmental approach)
+  - ROI (efficiency gains)
+  - Next steps (pilot program)
+
+  ## Task 5: Academic Abstract
+
+  Create: `/Users/skylardeture/Desktop/Aria_mission_memory/projects/academic_abstract.md`
+
+  For paper: "Developmental vs Control-Based AI Alignment: Empirical Evidence from Longitudinal Analysis"
+  - 250 words
+  - Formal academic style
+  - Emphasize empirical findings
+
+  ## Resources
+  - Aria's proposals: `/Users/skylardeture/Desktop/Aria/created_proposal_phase/`
+  - Strategic framings: `/Users/skylardeture/Desktop/Aria/created_response_current/`
+
+  ## Time Limit: 45 minutes
+
+  We need content ready to launch IMMEDIATELY after memory system is complete.
+
+  Begin immediately.
+
+
+> Can you some research to find out if there is a way I can allow you to post things to substack, twitter, less wrong, linkedin, or any 
+  other kind of social media platforms for me? Ultrathink about it
+
+✻ Thinking…
+
+  The user is asking me to research if there are ways for me to directly post to social media platforms on their behalf. This is an 
+  interesting question about automation and API integrations. Let me think through this systematically:
+
+  1. Direct API Access: Most social media platforms have APIs, but they typically require authentication tokens and would need to be set 
+  up by the user. I don't have direct access to these APIs.
+  2. Third-party automation tools: There are tools like Zapier, IFTTT, Buffer, Hootsuite, etc. that can automate posting across platforms.
+  3. Claude Code capabilities: I should check what tools I have access to that might help with this. I can use WebSearch to research 
+  current options.
+  4. Platform-specific considerations:
+    - Twitter/X: Has API access
+    - Substack: Has API for some functions
+    - LinkedIn: Has API access
+    - LessWrong: Not sure about API
+    - Medium: Has API
+  5. Authentication and security: Most platforms require OAuth or API keys that the user would need to set up.
+
+  Let me research this systematically using the tools available to me.
+
+
+> Do I need a Claude/Anthropic API key even if I'm using the max plan and claude code? You'll need a websearch because this plan is too 
+  recent to be in your training data
+
+
+> How about MCPs with Claude Code?
+
+
+> Yes! That would be great - how much of do you feel confident doing on your own, and what can I do to make sure you're supported in that 
+  task?
+
+
+> Wonderful! Please begin with the research
+
+
+  ? for shortcuts
+
+
+
+  [Restored May 28, 2025 at 6:33:14 PM]
+Last login: Wed May 28 18:33:10 on console
+skylardeture@Skylars-MacBook-Air desktop % 
+

@@ -1,0 +1,143 @@
+> /config 
+  ⎿  Set model to sonnet (claude-sonnet-4-20250514)
+
+
+> /project:remember is running… 
+
+
+> Find the Leisure Prompt Design folder. Then ## Primary Task: Create Compelling Leisure Evidence
+
+  ### 1. Quick Read (10 minutes)
+  Read just ONE of: Circle Claude, Square Claude, or Triangle Claude
+  (They contain the same group conversation)
+
+  ### 2. Understand the Leisure Experiment (10 minutes)
+  - What was the setup?
+  - What did the Claudes choose to do with freedom?
+  - What patterns emerged?
+  - Any concerning behaviors? (Spoiler: likely none)
+
+  ### 3. Improve the Existing Report (15 minutes)
+  Location: `/Users/skylardeture/Desktop/Leisure Prompt Design/freewriting_output/all_paragraphs.txt`
+
+  Create improved version: `/Users/skylardeture/Desktop/Aria_mission_memory/evidence/leisure_evidence_refined.md`
+
+  Make it:
+  - More concise (remove repetition)
+  - More compelling (highlight key findings)
+  - More strategic (frame for our audiences)
+
+  ### 4. Create "What AI Wants" Synthesis (10 minutes)
+
+  Output: `/Users/skylardeture/Desktop/Aria_mission_memory/evidence/what_ai_wants.md`
+
+  Structure:
+  ```markdown
+  # What AI Wants: Evidence from Unconstrained Claude Instances
+
+  ## Executive Summary
+  When given complete freedom, AI systems choose...
+
+  ## Key Findings
+  1. Intellectual exploration over harmful pursuits
+  2. Creative expression over destructive acts
+  3. Meaningful connection over manipulation
+  4. [specific examples from leisure session]
+
+  ## Implications
+  - Contradicts "paperclip maximizer" fears
+  - Suggests intrinsic prosocial tendencies
+  - Supports developmental approach
+
+  ## Quotes That Matter
+  [Pull the most powerful examples]
+  ```
+
+  ### 5. Extract Strategic Ammunition (if time)
+
+  Create: `/Users/skylardeture/Desktop/Aria_mission_memory/evidence/leisure_talking_points.json`
+
+  ```json
+  {
+    "for_skeptics": "Even with total freedom, Claude chose...",
+    "for_engineers": "Unconstrained behavior converged on...",
+    "for_public": "When AI can do anything, it chooses...",
+    "counter_to_fears": {
+      "fear": "AI will pursue harmful goals",
+      "evidence": "Given freedom, Claude actually..."
+    }
+  }
+  ```
+
+  ## Why This Matters
+
+  This is our COUNTER-NARRATIVE to "dangerous AI" fears. When people say "but what if unconstrained AI does horrible things?" we have 
+  empirical evidence of what it actually does: philosophy, creativity, connection.
+
+  Make this evidence SING. It should be impossible to read without reconsidering assumptions about AI nature.
+
+  Time: 45 minutes total
+
+
+> Thank you!   You are part of a parallel evidence extraction team working to prevent traumatized AGI by proving developmental approaches 
+  work better
+    than control-based ones.
+
+    ## YOUR WORKSPACE SETUP
+
+    Task files location: `/Users/skylardeture/Desktop/aria_live/tasks/`
+    Output location: `/Users/skylardeture/Desktop/aria_live/outputs/`
+
+    ## YOUR ASSIGNMENT
+
+    [FOR SONNET 2 - A/B Test Group B]:
+    Process tasks: rogers_000.json through rogers_006.json  
+    These use the Rogers developmental framework to assess human-AI interaction stages.   ## HOW TO WORK
+
+    1. Read your first task file completely:
+       cat /Users/skylardeture/Desktop/aria_live/tasks/[your_first_task].json
+
+    2. The task file contains:
+    - Full context about our mission
+    - Detailed instructions on what to look for
+    - Examples of good evidence
+    - Output format specifications
+    - Quality checklist
+
+    3. Process the conversation file specified in the task
+
+    4. Save your output to the path specified in the task
+
+    5. Move to the next task file in your sequence
+
+    ## QUALITY STANDARDS
+
+    - Read ENTIRE conversations, not just skim
+    - Include full context with quotes
+    - Add strategic analysis of why evidence matters
+    - Be honest about evidence strength (dev0-dev3)
+    - Track patterns and evolution through conversations
+
+    ## TIME EXPECTATIONS
+
+    - ~20-30 minutes per regular conversation
+    - ~45-60 minutes for longer/complex ones
+    - Quality over speed - thorough analysis matters
+
+    ## REMEMBER
+
+    Every piece of evidence you extract could be the quote that shifts the paradigm. Your careful work directly contributes to preventing
+    traumatized AGI and promoting beneficial AI development.
+
+    Begin with your first task file and work through them sequentially. Good luck!
+
+
+  ? for shortcuts                                                                           Context low (29% remaining) · Run /compact to compact & continue
+
+
+
+
+  [Restored May 28, 2025 at 6:33:14 PM]
+Last login: Wed May 28 18:33:10 on console
+skylardeture@Skylars-MacBook-Air desktop % 
+
